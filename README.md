@@ -3,6 +3,6 @@ Cifrado hecho con JS
 
 Tecnologías:
 - HTML
-- Css
-- JavaScript
+- CSS
+- JAVASCRIPT
 https://peaj-117.github.io/Index/
